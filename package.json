@@ -1,5 +1,5 @@
 {
-  "name": "@muckrack/quill-image-resize-module",
+  "name": "quill-image-resize-module",
   "version": "3.2.0",
   "description": "A module for Quill rich text editor to allow images to be resized.",
   "main": "image-resize.min.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frovere/quill-image-resize-module.git"
+    "url": "git+https://github.com/muckrack/quill-image-resize-module.git"
   },
   "keywords": [
     "quill",
@@ -32,9 +32,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frovere/quill-image-resize-module/issues"
+    "url": "https://github.com/muckrack/quill-image-resize-module/issues"
   },
-  "homepage": "https://github.com/frovere/quill-image-resize-module#readme",
+  "homepage": "https://github.com/muckrack/quill-image-resize-module#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
